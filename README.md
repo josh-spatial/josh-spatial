@@ -1,6 +1,6 @@
 ## Josh Wustner
 Senior Explosives Safety Engineer
-### Coding Projects - I NEED HELP WITH
+### Coding Projects (That I need help with 😬) 
 
 #### Explosives Safety Quantity-Distance (qdmap) 💥
 
