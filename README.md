@@ -1,3 +1,9 @@
+## Josh Wustner
+
+### Interests
+
+I want to create an application for applying explosives safety quantity-distance (QD) criteria to create explosives safety site plans using free and open source software (QGIS).
+
 ### Hi there 👋
 
 <!--
