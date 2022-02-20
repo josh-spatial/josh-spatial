@@ -1,19 +1,21 @@
 ## Josh Wustner
-
+Senior Explosives Safety Engineer
 ### Coding Projects - I NEED HELP WITH
 
 #### Explosives Safety Quantity-Distance (qdmap) 💥
 
-I want to create an application for applying explosives safety quantity-distance (QD) criteria to create explosives safety site plans using free and open source software (QGIS).
+I want to create an application for applying explosives safety quantity-distance (QD) criteria to create explosives safety site plans using free and open source software (QGIS).  The software should simplify the process for engineers and planners to ensure public safety.
+
+Ideally it would be able to apply different explosives safety standards such as those implemented by NATO or U.S. Department of Defense.
 
 ### Interests
 
 - Free and open source software.
 - Linux
-- QGIS
-- Python
 
-
+- 🌱 I’m currently learning ...
+    - QGIS
+    - Python
 
 
 
