@@ -1,10 +1,21 @@
 ## Josh Wustner
 
-### Interests
+### Coding Projects - I NEED HELP WITH
+
+#### Explosives Safety Quantity-Distance (qdmap) 💥
 
 I want to create an application for applying explosives safety quantity-distance (QD) criteria to create explosives safety site plans using free and open source software (QGIS).
 
-### Hi there 👋
+### Interests
+
+- Free and open source software.
+- Linux
+- QGIS
+- Python
+
+
+
+
 
 <!--
 **josh-spatial/josh-spatial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
